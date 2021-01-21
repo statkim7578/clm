@@ -1,0 +1,13 @@
+Package: clm
+Type: Package
+Title: Robust Demand Estimation of Choice Models (Title Case)
+Version: 0.0.0.9000
+Author: Chul Kim
+Maintainer: Chul Kim <statkim7578@yonsei.ac.kr>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports:
+    dplyr
